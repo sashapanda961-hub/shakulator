@@ -1,7 +1,7 @@
 {
-  "name": "Калькулятор",
-  "short_name": "Калькулятор",
-  "description": "Простой калькулятор",
+  "name": "Calculator",
+  "short_name": "Calculator",
+  "description": "Calculator",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f5f5f0",
